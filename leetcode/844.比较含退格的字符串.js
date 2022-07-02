@@ -29,5 +29,4 @@ var backspaceCompare = function (s, t) {
   }
 };
 
-backspaceCompare('ab##d', 'ab##d')
 // @lc code=end
