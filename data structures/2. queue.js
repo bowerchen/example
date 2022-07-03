@@ -119,7 +119,7 @@ function hotPotato(nameList, num) {
   return queue.dequeue()
 }
 
-let names = ['John', 'Jack', 'Camila', 'Ingrid','Carl']
+let names = ['John', 'Jack', 'Camila', 'Ingrid', 'Carl']
 let winner = hotPotato(names, 19)
 console.log("The winner is: " + winner)
 
