@@ -1,7 +1,7 @@
 /**
  * 链表(LinkNode)
- *  缺点： 数组起点或中间插入或移除元素成本高
- *  优点： 添加或移除元素不需要移动其他元素
+ *  - 缺点： 数组起点或中间插入或移除元素成本高
+ *  - 优点： 添加或移除元素不需要移动其他元素
  */
 
 function LinkedList() {
@@ -239,3 +239,5 @@ function DoublyLinkedList() {
     }
   };
 }
+
+module.exports =LinkedList
