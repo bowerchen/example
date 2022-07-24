@@ -67,3 +67,4 @@ console.log(dictionary.values())
 console.log(dictionary.get("bowerchen"))
 
 
+module.exports = Dictionary
